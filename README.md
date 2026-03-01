@@ -8,7 +8,7 @@ With a strong foundation in **Data Structures (950+ LeetCode)** and real-world f
 - 🔭 **Currently Building:** [FinTech Ledger API](https://github.com/VedanshuGarg/fintech-ledger-api) (ACID-compliant Transaction System)
 - 💼 **Experience:** Scaling backend services at **CloudSufi** & **Atlas Consolidated**.
 - 🏆 **Competitive Coding:** CodeChef (1697) | Top 5% at NIT Bhopal Codathon.
-- 🎓 **Certifications:** McKinsey Forward Program (Business Problem Solving).
+- 🎓 **Certifications:** McKinsey.org Forward Program (Business Problem Solving).
 
 ---
 
@@ -16,6 +16,7 @@ With a strong foundation in **Data Structures (950+ LeetCode)** and real-world f
 <p align="left">
   <img src="https://img.shields.io/badge/Java-17-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-3-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -36,16 +37,9 @@ With a strong foundation in **Data Structures (950+ LeetCode)** and real-world f
 ### 🧠 Problem Solving Stats
 <p align="left">
 <a href="https://leetcode.com/VedanshuGarg">
-  <img src="https://img.shields.io/badge/LeetCode-750+-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-950+-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 <a href="https://www.codechef.com/users/vedanshu_garg">
   <img src="https://img.shields.io/badge/CodeChef-1697_(3⭐)-brown?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-</p>
-
-<p align="left">
-<a href="https://github.com/VedanshuGarg">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VedanshuGarg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedanshuGarg&layout=compact&theme=algolia&langs_count=6"/>
 </a>
 </p>
